@@ -1,0 +1,47 @@
+.background{
+    background-color: rgb(35, 124, 226);
+    width: 1520px;
+    height: 900px;
+    padding-top:5px;
+    
+}
+
+.inside{
+    background-color: white;
+    width: 500px;
+    height: 400px;
+    z-index: 2;
+    margin-left: 500px;
+    margin-top: 250px;
+    margin-bottom: 50px;
+    padding-top: 50px;
+}
+
+#email,#password{
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+
+}
+
+#button{
+    background-color:rgb(31, 187, 31);
+    color: white;
+}
+
+a:link{
+    color: black;
+}
+
+a:visited{
+    color: cornflowerblue;
+}
+
+a:hover{
+    color: rgb(77, 236, 62);
+    text-decoration: underline;
+}
+
+a:active{
+    color: greenyellow;
+}
