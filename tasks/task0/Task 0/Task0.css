@@ -1,0 +1,57 @@
+.red{
+    background:red;
+    height: 75px;
+    width: 75px;
+    border-radius: 50vw;
+    position: absolute;
+    left:550px;
+}
+
+.blue{
+    background:blue;
+    height: 75px;
+    width: 75px;
+    border-radius: 50vw;
+    position: absolute;
+    left:725px;
+}
+
+.yellow{
+    background:yellow;
+    height: 75px;
+    width: 75px;
+    border-radius: 50vw;
+    position: absolute;
+    left:900px;
+}
+
+.purple{
+    background:purple;
+    height: 75px;
+    width: 75px;
+    border-radius: 50vw;
+    position: absolute;
+    left:550px;
+}
+
+.green{
+    background:green;
+    height: 75px;
+    width: 75px;
+    border-radius: 50vw;
+    position: absolute;
+    left:725px;
+}
+
+.orange{
+    background:orange;
+    height: 75px;
+    width: 75px;
+    border-radius: 50vw;
+    position: absolute;
+    left:900px;
+}
+
+/*.colorwheel{
+    margin-left: 460px;
+}*/
